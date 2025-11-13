@@ -69,14 +69,13 @@ python keylogger_detector.py
 ```
 
 <img width="1294" height="957" alt="Screenshot 2025-11-13 200436" src="https://github.com/user-attachments/assets/b09ad0b2-e407-46f9-88e2-c467e374ea36" />
-
+```
 
 ### Keylogger Detected
 ```
 <img width="907" height="778" alt="image" src="https://github.com/user-attachments/assets/b346d2d9-f403-4491-b9fa-580358a49128" />
 
 ```
-
 ## 🛡️ Detection Logic
 
 **Three-Tier Filtering System:**
