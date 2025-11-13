@@ -67,45 +67,13 @@ python keylogger_detector.py
 
 ### Clean System (No Threats)
 ```
-╔════════════════════════════════════════════════════════════════╗
-║       PRODUCTION ANTI-KEYLOGGER DETECTOR v3.0                  ║
-║  Designed for MINIMAL false positives (<5%)                   ║
-╚════════════════════════════════════════════════════════════════╝
+<img width="1294" height="957" alt="image" src="https://github.com/user-attachments/assets/e2fdcf00-cd1e-4d2a-8de5-e59f02331771" />
 
-================================================================================
-🔍 SCANNING FOR KEYLOGGERS...
-================================================================================
-
-⌨️  Keyboard hooks detected: 23
-
-================================================================================
-📋 SCAN RESULTS
-================================================================================
-
-✅ NO KEYLOGGERS DETECTED
-
-Your system appears clean. All keyboard hooks are from legitimate applications.
-(HP, Dell, Apple, Microsoft, Logitech, etc.)
-```
 
 ### Keylogger Detected
 ```
-🔴 DETECTED 1 POTENTIAL KEYLOGGER(S)
+<img width="907" height="778" alt="image" src="https://github.com/user-attachments/assets/b346d2d9-f403-4491-b9fa-580358a49128" />
 
-🚨 THREAT #1
-  Process: explorer.exe (PID: 9436)
-  Path: D:\CyberSecurity\...\Keylogger\dist\explorer.exe
-  Confidence: 95.0%
-  Threat Score: 5/6 indicators
-
-  Evidence:
-    🚨 NAME SPOOFING: 'explorer.exe' found in WRONG location
-    🚨 KEYLOGGER KEYWORDS: keylog
-    ⚠️ Unsigned binary with keyboard hook
-    ⚠️ Suspicious location: D:\...\dist\
-    ⚠️ Unknown publisher in non-standard location
-
-  ⛔ RECOMMENDATION: TERMINATE IMMEDIATELY
 ```
 
 ## 🛡️ Detection Logic
