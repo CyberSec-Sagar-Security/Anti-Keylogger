@@ -67,7 +67,8 @@ python keylogger_detector.py
 
 ### Clean System (No Threats)
 ```
-<img width="1294" height="957" alt="image" src="https://github.com/user-attachments/assets/e2fdcf00-cd1e-4d2a-8de5-e59f02331771" />
+
+<img width="1294" height="957" alt="Screenshot 2025-11-13 200436" src="https://github.com/user-attachments/assets/b09ad0b2-e407-46f9-88e2-c467e374ea36" />
 
 
 ### Keylogger Detected
